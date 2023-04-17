@@ -36,7 +36,6 @@ Temporary Items
 
 ### VisualStudioCode ###
 backup-css
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -80,7 +79,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
 
 *.json
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode
